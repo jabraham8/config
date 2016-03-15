@@ -1,0 +1,6 @@
+server:
+  port: 8099
+ 
+info:
+  version: 0.0.1-SNAPSHOT
+  Description: Spring Boot Admin Server
